@@ -21,6 +21,6 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 /**这个地方换成自己的github地址和仓库地址**/
-git push -f git@github.com:FightingN/vue-common-vuepress.git master:gh-pages
+git push -f git@github.com:songzhanpeng/zixianblog.git master:gh-pages
 
 cd -
