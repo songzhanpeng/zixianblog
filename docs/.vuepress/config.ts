@@ -5,7 +5,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "你好， Scratch-Gui ！",
   description: "这是我的第一个 VuePress 站点",
-  base:'/zixianblog/',
+  base:'/',
   theme: defaultTheme({
     logo: '/images/hero.webp',
     navbar: [
